@@ -1,0 +1,2 @@
+from src.components.notes.repository.notes_repository import NotesRepository, NOTES_REPOSITORY_NAME
+from src.components.notes.repository.notes_repository_fs import NotesFileSystemRepository as _DefaultNotesRepository
